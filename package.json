@@ -1,11 +1,16 @@
 {
-  "name": "ember-table-helpers",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "name": "@opendatafit/ember-table-helpers",
+  "version": "0.0.1-alpha.0",
+  "description": "Some opinions and util classes to implement tables in an ember app",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "table",
+    "opendata.fit"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opendatafit/ember-table-helpers"
+  },
   "license": "MIT",
   "author": "",
   "directories": {
